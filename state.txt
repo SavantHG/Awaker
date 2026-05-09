@@ -1,0 +1,2 @@
+ENABLED=False
+END_TIME=03:30
